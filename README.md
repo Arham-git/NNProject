@@ -1,6 +1,6 @@
 # NNProject
 
-Please check the Color Detection docx file for python code and the model description
+Please check the Color Detection docx file for python code and the model description as well as this link to look at latest code https://colab.research.google.com/drive/1FZUa-REocJ90S4oC3S_DyVnYQ-uePyhD?usp=drive_link
 
 # Verilog files 
 We take two 8 bit inputs and convert them two there 32 bit IEEE-754 floating point representation by using a lookup table.
